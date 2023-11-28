@@ -23,4 +23,3 @@ elif total_minutes_exam - 30 > total_minutes_arrive:
         print(f"{minutes} minutes before the start")
     else:
         print(f"{hours}:{minutes:02d} hours before the start")
-
